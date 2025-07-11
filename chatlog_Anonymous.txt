@@ -1,0 +1,12 @@
+[2025-05-22 21:08:29] Bot: 🤖 Welcome Anonymous! You can ask me about your rights, laws, safety, or support.
+[2025-05-22 21:14:58] Bot: 🤖 Welcome Anonymous! You can ask me about your rights, laws, safety, or support.
+[2025-05-22 21:15:04] Anonymous: hii
+[2025-05-22 21:15:04] Bot: 🤖 I'm here to help with women’s rights and safety. Please ask me about legal help, emergency numbers, or support services.
+[2025-05-22 21:15:49] Anonymous: what are my emergency contacts
+[2025-05-22 21:15:49] Bot: 🚨 Please call 1091 (Women Helpline) or 112 (Emergency Services) immediately.
+[2025-05-22 21:16:29] Anonymous: what happens in case of abuse
+[2025-05-22 21:16:29] Bot: ⚠️ You're protected under the Domestic Violence Act, 2005. Please reach out to the police or NGOs for help.
+[2025-05-22 21:16:51] Anonymous: what are the ngo that support women
+[2025-05-22 21:16:51] Bot: 🤝 NGOs like Breakthrough, Sakshi, and SEWA Bharat can support you with legal and emotional help.
+[2025-05-22 21:17:07] Anonymous: what are my laws
+[2025-05-22 21:17:07] Bot: 📚 Important laws include IPC Section 498A, Dowry Prohibition Act, and the POSH Act for workplace harassment.
